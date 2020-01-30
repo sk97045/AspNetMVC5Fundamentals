@@ -1,0 +1,5 @@
+C:\Users\shukuma\learn\Programming\C#\AspNetMVC5Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\shukuma\learn\Programming\C#\AspNetMVC5Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\shukuma\learn\Programming\C#\AspNetMVC5Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\shukuma\learn\Programming\C#\AspNetMVC5Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\shukuma\learn\Programming\C#\AspNetMVC5Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
