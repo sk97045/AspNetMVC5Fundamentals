@@ -8,5 +8,6 @@ namespace OdeToFood.Web.Models
     public class GreatingViewModel
     {
         public string Message { get; set; }
+        public string Name { get; set; }
     }
 }
